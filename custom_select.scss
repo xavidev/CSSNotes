@@ -1,0 +1,17 @@
+form {
+    width: 60%;
+    border: 1px solid gray;
+    margin: 5rem auto 0;
+    padding: 2em;
+}
+
+select {
+    /*Prefijos necesarios para los distintos navegadores*/
+    appearance: none;
+    border: 1px solid gray;
+    width: 50%;
+    padding: 0.8em 0.5em;
+    background-image: url(/*url del svg que queramos usar.*/);
+    background-size: 1.3em 1.3em;
+    background-position: 98% 50%;
+}
